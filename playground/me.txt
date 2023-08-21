@@ -1,3 +1,0 @@
-Name: Aysha Hiba Hagalwadi
-Skills: HTML, CSS, JS, PYTHON, SQL
-Email: hibahagalwadi@gmail.com
